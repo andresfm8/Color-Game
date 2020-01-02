@@ -13,4 +13,4 @@ This is the default game mode, but might be changed if you decided to go easy at
 Done through Colt Steele's Udemy course.
 
 Topics covered:
-	CSS, HTMl, JS. DOM manipulation with JS.
+	CSS, HTML, JS. DOM manipulation with JS.
