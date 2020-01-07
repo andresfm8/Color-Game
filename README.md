@@ -1,5 +1,5 @@
 	--Color Game--
-The game consist in guessing the RGB color displayed in the top side of the website. You will need to click in the correct color in order to win.
+The game consists in guessing the RGB color displayed in the top side of the website. You will need to click in the correct color in order to win.
 
 	The game has 2 difficulties:
     
