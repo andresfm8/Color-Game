@@ -6,7 +6,7 @@ The game consist in guessing the RGB color displayed in the top side of the webs
 		--Easy--
 To play the easy mode, click on the easy tap.
     
-        --Hard--
+        	--Hard--
 This is the default game mode, but might be changed if you decided to go easy at first.
 
 ------------
